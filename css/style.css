@@ -493,3 +493,9 @@ button:hover{
     opacity: 1;
     background-color: rgba(248, 231, 173, 0.75);
 }
+@media(max-width: 1400px){
+    .contenedorimg{
+        height: 200px;
+        width: 200px;
+    }
+}
