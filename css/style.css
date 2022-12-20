@@ -498,4 +498,22 @@ button:hover{
         height: 200px;
         width: 200px;
     }
+    .portfolio{
+        margin: 0;
+        height: auto;
+    }
+    .contenido5{
+        margin: 0;
+        justify-content: space-evenly;
+        height: auto; 
+    }
+}
+@media(max-width: 1000px){
+    .contenedorimg{
+        flex: 1 0 100%;
+    }
+    .contenido5{
+        justify-content: center;
+        width: 100%;
+    }
 }
