@@ -6,12 +6,12 @@ Consta de una landing page personal, donde aplicamos los principios básicos de 
 Si lo deseas, puedes descargar o copiar libremente este proyecto para usarlo de plantilla para tus propias creaciones. *Personalmente no lo recomiendo, ya que es un proyecto muy básico.*
 ### ¿Qué aplico en este trabajo?
 En este trabajo práctico se usan los siguientes elementos:
-**HTML:**
+##### HTML:
 - *Uso de clases (etiqueta Class)*
 - *Links funcionales (etiqueta a)*
 - *Listas (etiquetas ul-li)*
 - *Formularios en HTML (Etiqueta form)*
-**CSS:**
+##### CSS:
 - *Uso de variables (etiqueta :root)*
 - *Flex box*
 - *Animaciones en CSS (etiqueta :hover y animación con el uso de @keyframes)*# MarianoQuirogaLandingPage
