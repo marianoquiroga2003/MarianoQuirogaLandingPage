@@ -507,6 +507,9 @@ button:hover{
         justify-content: space-evenly;
         height: auto; 
     }
+    .portfolio{
+        height: 1000px;
+    }
 }
 @media(max-width: 1000px){
     .contenedorimg{
@@ -515,5 +518,8 @@ button:hover{
     .contenido5{
         justify-content: center;
         width: 100%;
+    }
+    .portfolio{
+        height: 1200px;
     }
 }
