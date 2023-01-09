@@ -23,7 +23,7 @@ header{
     justify-content: space-around;
     align-items: center;
     position: fixed;
-    z-index: 1;
+    z-index: 2;
 }
 h1 > img{
     height: 50px;
@@ -522,4 +522,18 @@ button:hover{
     .portfolio{
         height: 1200px;
     }
+}
+.menudesplegable{
+    margin-right: 30px;
+}
+.menudesplegable > a{
+    font-size: 40px;
+}
+.arrowhero{
+    flex: 1 0 100%;
+    justify-content: center;
+}
+.arrowhero > h1{
+    color: var(--color3);
+    font-size: 30px;
 }
