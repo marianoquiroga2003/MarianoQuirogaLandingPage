@@ -537,3 +537,12 @@ button:hover{
     color: var(--color3);
     font-size: 30px;
 }
+.exp > h1{
+    color: var(--color3);
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: var(--fuente1);
+    display: block;
+    margin: 40px;
+}

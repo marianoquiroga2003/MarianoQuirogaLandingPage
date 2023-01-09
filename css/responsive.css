@@ -17,11 +17,11 @@
 }
 @media (min-width: 1200px){
     .arrowhero{display: none;}
-    .contenidolista{
-        height: auto;
+    .exp{
+        display: none;
     }
-
 }
+
 @media (max-width: 1200px){
     .hero{
         position: relative;
@@ -38,5 +38,33 @@
     .herodiv > div > button{
         display: none;
     }    
-
+    .contenidolista{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        width: 70%;    
+    }
+    .subdiv3{
+        margin: 20px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .gris{
+        background-color: #DFDFDF;
+    }
+    .subdiv2{
+        display: none;
+    }
+    .subdiv1{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .título > h1{
+        display: none;
+    }
+    .título{
+        margin-bottom: 45px;
+    }
 }
